@@ -1,0 +1,943 @@
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\WebGrease.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+C:\Users\USER\source\repos\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\WebGrease.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.AssemblyReference.cache
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+D:\erick\Descargas\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.AssemblyReference.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\WebGrease.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\WebGrease.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.AssemblyReference.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\WebServicesAbb\bin\log4net.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\WebGrease.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\log4net.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.AssemblyReference.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\WebGrease.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\log4net.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.AssemblyReference.cache
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+C:\Users\jafet\Desktop\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\WebGrease.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\log4net.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.pdb
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.pdb
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+C:\Users\PC\source\repos\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\WebGrease.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\log4net.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csprojAssemblyReference.cache
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\WebServicesAbb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll.config
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\WebServicesAbb.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.exe.config
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\csc.rsp
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.exe.config
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\csi.rsp
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.AppContext.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Console.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Http.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.exe.config
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\vbc.rsp
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\WebGrease.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\log4net.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Entidades.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.LogicaNegocio.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Newtonsoft.Json.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Net.Http.Formatting.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Helpers.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Http.WebHost.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Mvc.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Optimization.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.Razor.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Antlr3.Runtime.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.AccesoDatos.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\ABB.Catalogo.Utiles.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csprojAssemblyReference.cache
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CoreCompileInputs.cache
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.csproj.CopyComplete
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\WebServicesAbb\obj\Debug\WebServicesAbb.pdb

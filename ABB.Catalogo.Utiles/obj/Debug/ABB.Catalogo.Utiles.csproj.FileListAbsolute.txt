@@ -1,0 +1,99 @@
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\USER\source\repos\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.AssemblyReference.cache
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+D:\erick\Descargas\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.AssemblyReference.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio 01\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.AssemblyReference.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.Mvc.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\log4net.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Laboratorio\Abb Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.WebPages.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.Mvc.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\log4net.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.WebPages.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.AssemblyReference.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+D:\erick\Documents\Ingeniería de Sistemas\Ciclo 7\Desarrollo de Sistemas Web\Manual Laboratorio\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.Mvc.dll
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\log4net.dll
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.WebPages.dll
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.AssemblyReference.cache
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\jafet\Desktop\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.Mvc.dll
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\log4net.dll
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.WebPages.dll
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\PC\source\repos\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.Mvc.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\log4net.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.WebPages.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csprojAssemblyReference.cache
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\Favio\Downloads\HiroLabo\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Utiles.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.Mvc.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\log4net.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\System.Web.WebPages.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\bin\Debug\ABB.Catalogo.Entidades.pdb
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csprojAssemblyReference.cache
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.csproj.CopyComplete
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.dll
+C:\Users\Favio\Desktop\LaboWeb\ABB Catalogo\ABB.Catalogo.Utiles\obj\Debug\ABB.Catalogo.Utiles.pdb
